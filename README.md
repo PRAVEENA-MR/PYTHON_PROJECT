@@ -16,11 +16,17 @@ Analysis Tasks:
    # Preprocessing
    First and foremost imported libraries and Loaded the dataset.Then performed data exploration using different available functions. 
    Prepossing Steps includes <br> <br>
-   1.finding and deleting duplicated rows in the dataset  <br>
-   2.Values in height column is not valid ,so generated random numbers between 150 and 180 for 'Height' column and changed datatype <br>
-   3.Finding and deleted null values which is very less compared to size of dataset <br>
-   4.Replaced null value in salary column by salary mean <br>
-   5.
+   1. Finding and deleting duplicated rows in the dataset  <br>
+   2. Values in height column is not valid ,so generated random numbers between 150 and 180 for 'Height' column and changed datatype <br>
+   3. Finding and deleted null values which is very less compared to size of dataset <br>
+   4. Replaced null value in salary column by salary mean <br>
+
+   # Analysis
+   1. The distribution of employees across each team and calculated the percentage split relative to the total number of employees
+        For distributin of employee across each team is ploted using bar chart. from the bar chart it is clear that no.of employee in Shooting guard - SG is higher 
+     than other positions which is 102. The Power forward - PF is the second highest position in number of employees which is 100 . Least number of employee is in 
+     the position Center - C that is 79 employees, SF and PG position have 85 and 92 number of employees respectively  <br><br>
+
 
    
 
