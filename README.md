@@ -15,11 +15,12 @@ Analysis Tasks:
 
    # Preprocessing
    First and foremost imported libraries and Loaded the dataset.Then performed data exploration using different available functions. 
-   Prepossing Steps includes <br>
+   Prepossing Steps includes <br> <br>
    1.finding and deleting duplicated rows in the dataset  <br>
    2.Values in height column is not valid ,so generated random numbers between 150 and 180 for 'Height' column and changed datatype <br>
    3.Finding and deleted null values which is very less compared to size of dataset <br>
    4.Replaced null value in salary column by salary mean <br>
+   5.
 
    
-   3.
+
