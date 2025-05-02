@@ -45,6 +45,7 @@ Analysis Tasks:
     Ploting Age and Salary to find correlation using scatter plot,from scatter plot age between 30 and 35 has highest salary age between 19 and 24 shows lowest 
     salary.from scatter plot it is not clearly shows any corelation between age and salary columns
    Another method to find corelation is corr() function
+   corelation between 0.0 to ±0.2 shows very weak or no corelation between age and salary column
 
    
 
