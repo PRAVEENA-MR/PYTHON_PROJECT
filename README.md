@@ -42,7 +42,9 @@ Analysis Tasks:
     Phoenix Suns and Denver Nuggets respectivly. <br><br>
 
    5.Investigated if there's any correlation between age and salary <br><br>
-    Ploting Age and Salary to find correlation using scatter plot,
+    Ploting Age and Salary to find correlation using scatter plot,from scatter plot age between 30 and 35 has highest salary age between 19 and 24 shows lowest 
+    salary.from scatter plot it is not clearly shows any corelation between age and salary columns
+   Another method to find corelation is corr() function
 
    
 
