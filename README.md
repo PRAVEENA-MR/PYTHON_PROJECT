@@ -42,7 +42,7 @@ Analysis Tasks:
     Phoenix Suns and Denver Nuggets respectivly. <br><br>
 
    5.Investigated if there's any correlation between age and salary <br><br>
-    Ploting Age and Salary to find correlation.
+    Ploting Age and Salary to find correlation using scatter plot,
 
    
 
