@@ -36,12 +36,12 @@ Analysis Tasks:
    value_counts() its clear that the age group 24-29 has highest count of enployee(229),then age group 18-24 have second highest no.of employees(107), age group 
    from 36 to 41 has least no.of employee ie,23 <br><br>
 
-   4.Discoveed which team and position have the highest salary expenditure <br>
+   4. Discoveed which team and position have the highest salary expenditure <br>
       Finding top 5 salary expenditure team,then ploted top 5 salary expenditure  team using bar plot.From the bar chart and calculations it is clear that Maximum 
     salary expenditure is31866445.0 for the Team Los Angeles Lakers and Position is SF.The next top 4  salary expenditure  teams are Miami Heat, Houston Rockets , 
     Phoenix Suns and Denver Nuggets respectivly. <br><br>
 
-   5.Investigated if there's any correlation between age and salary <br><br>
+   5.  Investigated if there's any correlation between age and salary <br><br>
     Ploting Age and Salary to find correlation using scatter plot,from scatter plot age between 30 and 35 has highest salary age between 19 and 24 shows lowest 
     salary.from scatter plot it is not clearly shows any corelation between age and salary columns
    Another method to find corelation is corr() function
